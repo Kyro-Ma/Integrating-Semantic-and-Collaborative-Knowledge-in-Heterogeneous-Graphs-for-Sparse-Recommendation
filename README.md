@@ -9,8 +9,8 @@ After downloading the datasets, including review data and meta data, create a di
 
 # Environment setup
 ```bash
-git clone https://github.com/Kyro-Ma/TRWH.git
-cd TRWH
+git clone https://github.com/Kyro-Ma/Integrating-Semantic-and-Collaborative-Knowledge-in-Heterogeneous-Graphs-for-Sparse-Recommendation.git
+cd Integrating-Semantic-and-Collaborative-Knowledge-in-Heterogeneous-Graphs-for-Sparse-Recommendation
 
 pip install -r requirements.txt
 
