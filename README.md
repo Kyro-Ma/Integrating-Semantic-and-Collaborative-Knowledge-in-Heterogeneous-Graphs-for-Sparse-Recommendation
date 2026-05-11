@@ -11,13 +11,11 @@ RMSE and MAE, with two practical variants (W2VSHet-K for KNN edges and W2VSHet-T
 
 ## Env Setting
 ```
-git clone https://github.com/Kyro-Ma/W2VSHet-CF.git
-cd W2VSHet-CF
+git clone [https://github.com/Kyro-Ma/W2VSHet-CF.git](https://github.com/Kyro-Ma/Integrating-Semantic-and-Collaborative-Knowledge-in-Heterogeneous-Graphs-for-Sparse-Recommendation.git)
+cd Integrating-Semantic-and-Collaborative-Knowledge-in-Heterogeneous-Graphs-for-Sparse-Recommendation
 
 conda create -n [env name] python=3.12 pip
 conda activate [env name]
-
-pip install -r requirements.txt
 
 cd Preprocess
 python json_to_pkl_transformation.py
